@@ -1,0 +1,16 @@
+Notes:
+	-Create folders inside views:
+		+Admin
+			index.blade.php
+			+Users
+				create.blade.php
+				edit.blade.php
+				index.blade.pbp
+			+Posts
+				create.blade.php
+				edit.blade.php
+				index.blade.php
+			+Categories
+				edit.blade.php
+				index.blade.php
+				
